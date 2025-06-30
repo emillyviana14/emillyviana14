@@ -34,7 +34,7 @@ Tenho paixão por aprender, resolver problemas reais com tecnologia e criar solu
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
