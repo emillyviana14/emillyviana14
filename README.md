@@ -1,21 +1,21 @@
 # 👩🏻‍💻 Emilly Viana
 **`Desenvolvedora Back-end`**
 
-👩🏻‍💻 Emilly Viana  
-**Desenvolvedora FullStack | Estudante de ADS na FIAP**
-
 Olá! Meu nome é Emilly Rodrigues Viana, tenho 24 anos e sou natural do estado de Goiás.  
-Concluí o ensino médio técnico em Eletroeletrônica no IFPA
+Concluí o ensino médio técnico em Eletroeletrônica no IFPA.
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprofundando meus conhecimentos em desenvolvimento web, APIs, banco de dados e boas práticas de código. Tenho me dedicado a construir projetos completos utilizando **Java, Spring Boot, Oracle SQL, Docker** e outras ferramentas modernas do ecossistema backend e fullstack.
 
- Tenho paixão por aprender, resolver problemas reais com tecnologia e criar soluções que tenham impacto positivo na sociedade — principalmente com foco em sustentabilidade (ESG) e acessibilidade.
+Tenho paixão por aprender, resolver problemas reais com tecnologia e criar soluções que tenham impacto positivo na sociedade — principalmente com foco em sustentabilidade (ESG) e acessibilidade.
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillyrviana)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillyrviana)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoemillyviana@gmail.com)
+
+---
 
 ### 🧰 Languages and Tools
 
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
@@ -30,17 +30,14 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas na FIAP**, onde venho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
 </p>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=emillyviana14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+</p>
