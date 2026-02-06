@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Emilly Viana
 **`Desenvolvedora Back-end`**
 
-Olá! Meu nome é Emilly Rodrigues Viana, tenho 24 anos e sou natural do estado de Goiás.  
-Concluí o ensino médio técnico em Eletroeletrônica no IFPA.
-
-Atualmente, curso **Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprofundando meus conhecimentos em desenvolvimento web, APIs, banco de dados e boas práticas de código. Tenho me dedicado a construir projetos completos utilizando **Java, Spring Boot, Oracle SQL, Docker** e outras ferramentas modernas do ecossistema backend e fullstack.
-
-Tenho paixão por aprender, resolver problemas reais com tecnologia e criar soluções que tenham impacto positivo na sociedade — principalmente com foco em sustentabilidade (ESG) e acessibilidade.
+Desenvolvedora Back-end formada em Análise e Desenvolvimento de Sistemas.
+Trabalho principalmente com Java, Spring Boot, APIs REST e bancos de dados SQL/NoSQL.
+Gosto de criar soluções bem estruturadas, resolver problemas reais e aprender constantemente.
+Interesse especial em projetos com impacto social, sustentabilidade (ESG) e acessibilidade.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emillyrviana)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoemillyviana@gmail.com)
