@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Emilly Viana
-**`Desenvolvedora Back-end`**
+**`Backend developer`**
 
 Desenvolvedora Backend
 
