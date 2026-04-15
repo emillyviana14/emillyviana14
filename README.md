@@ -8,13 +8,3 @@ Desenvolvedora Backend
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
- <img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=emillyviana14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" 
-/>
-
-</p>
