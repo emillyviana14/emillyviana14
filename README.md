@@ -9,7 +9,6 @@ Backend Developer | Análise e Desenvolvimento de Sistemas
 ---
 
 
-<sub>obrigada pela visita ♡</sub>
 
 </div>
 
